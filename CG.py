@@ -55,7 +55,7 @@ def capture_globale():
 # --- INTERFACE DE SUPERVISION ---
 st.set_page_config(page_title="Collecteur Global Mulhouse", layout="wide")
 
-st.title("📊 Capture Instantanée & Archivage ML")
+st.title(" Capture Instantanée & Archivage ML")
 st.write("Ce module enregistre l'état complet du réseau avec horodatage précis pour l'analyse prédictive.")
 
 if st.button("📸 Lancer une capture de TOUTES les stations"):
