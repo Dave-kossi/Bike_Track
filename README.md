@@ -1,4 +1,4 @@
-# 🚴 Vélostation Mulhouse - Collecteur de Données en Temps Réel
+# 🚴 VeloTrack Mulhouse - Collecteur de Données en Temps Réel
 
 > Application Streamlit de capture instantanée et d'archivage des données du réseau Vélostation Mulhouse pour l'analyse prédictive et le Machine Learning.
 
@@ -195,6 +195,8 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 - Communauté open source
 
 ---
+
+## 📞 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
 
